@@ -42,4 +42,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-lib/Presentation/img_gen/widgets/input_field.dart
+/lib/Presentation/constants/api_key.dart
